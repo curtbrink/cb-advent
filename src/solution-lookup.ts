@@ -17,6 +17,7 @@ import Solution201515 from "./2015/15";
 import Solution201516 from "./2015/16";
 import Solution201517 from "./2015/17";
 import Solution201518 from "./2015/18";
+import Solution201519 from "./2015/19";
 import Solution202401 from "./2024/01";
 import Solution202402 from "./2024/02";
 import Solution202403 from "./2024/03";
@@ -49,6 +50,7 @@ const solutionMap: Record<number, Record<string, Solution>> = {
     "16": Solution201516,
     "17": Solution201517,
     "18": Solution201518,
+    "19": Solution201519,
   },
   2024: {
     "01": Solution202401,
