@@ -42,6 +42,8 @@ import Solution202415 from "./2024/15";
 import Solution202416 from "./2024/16";
 import Solution202417 from "./2024/17";
 import Solution202418 from "./2024/18";
+import Solution202419a from "./2024/19-1";
+import Solution202419b from "./2024/19-2";
 import { Solution } from "./types";
 
 const solutionMap: Record<number, Record<string, Solution>> = {
@@ -92,6 +94,8 @@ const solutionMap: Record<number, Record<string, Solution>> = {
     "16": Solution202416,
     "17": Solution202417,
     "18": Solution202418,
+    "19-1": Solution202419a,
+    "19-2": Solution202419b,
   },
 };
 
